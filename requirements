@@ -1,1 +1,12 @@
+1. Hardware Environment
+Processor: Intel processor
+Operating memory: 4 GB or more
+Graphics card: 512MB or more 
+CPU cores: 8 or more
 
+2. Software Environment
+Operating System: Windows 10  64 bit Operating System
+Software:
+(1) Python version 3.7 or above
+(2) Spark 2.4.5 or above versions
+(3) JDK 17 or above versions
