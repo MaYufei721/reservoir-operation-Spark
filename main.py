@@ -45,7 +45,7 @@ def login(master):
         username = entry1.get()
         password = entry2.get()
 
-        if username != "SKDD" and password != "123456":
+        if username == "SKDD" and password == "123456":
             messagebox.showinfo(message="Login successful!")
             login_frame.destroy()
 
