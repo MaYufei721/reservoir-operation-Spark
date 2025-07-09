@@ -249,7 +249,7 @@ class Cal:
                 else:
                     self.Z_cal[i][t] = self.Zf[i][t - 1]
 
-        self.delta = [1, 0.5, 0.1] #, 0.05
+        self.delta = [1, 0.5, 0.1, 0.05]
 
         yb = -10000
         time_start = time.time()
